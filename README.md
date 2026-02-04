@@ -58,4 +58,4 @@ Built an automated AI agent that collects data, analyzes content using LLMs, gen
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
