@@ -2,7 +2,7 @@
 
 An end-to-end AI agent that collects YouTube content, analyzes trends using LLMs, generates executive-style PDF reports, and delivers them automatically via email.
 
-## ⏱️ 30-Second Overview
+## 30-Second Overview
 
 **Problem**  
 Manually tracking AI trends across YouTube is time-consuming and inconsistent.
@@ -24,7 +24,7 @@ Built an automated AI agent that collects data, analyzes content using LLMs, gen
 
 ---
 
-## 🚀 Key Features
+## Key Features
 
 - Automated YouTube content collection
 - AI-powered trend analysis
@@ -35,7 +35,7 @@ Built an automated AI agent that collects data, analyzes content using LLMs, gen
 
 ---
 
-## 🧠 System Architecture
+## System Architecture
 
 1. Schedule Trigger (Weekly)
 2. YouTube RSS Fetch
@@ -47,7 +47,7 @@ Built an automated AI agent that collects data, analyzes content using LLMs, gen
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - n8n
 - JavaScript
