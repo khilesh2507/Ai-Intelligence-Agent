@@ -190,7 +190,7 @@
           "parameters": [
             {
               "name": "X-API-Key",
-              "value": "sk_f4be3e050c32511d838041566caf932a26fe70b4"
+              "value": "YOUR_API_KEY_HERE"
             }
           ]
         },
